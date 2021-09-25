@@ -24,7 +24,7 @@ This library uses HTTP/JSON Firebase Cloud Messaging connection server protocol
 ## Usage
 
 ```
-go get github.com/NaySoftware/go-fcm
+go get github.com/Nearcast/go-fcm
 ```
 
 ## Docs - go-fcm API
